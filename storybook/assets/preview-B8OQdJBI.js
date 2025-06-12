@@ -1,0 +1,1 @@
+import{j as o}from"./jsx-runtime-DiklIkkE.js";import"./index-DRjF_FHU.js";const a={parameters:{actions:{argTypesRegex:"^on[A-Z].*"},controls:{matchers:{color:/(background|color)$/i,date:/Date$/i}}},decorators:[r=>o.jsx("div",{className:"p-4",children:o.jsx(r,{})})]};export{a as default};
